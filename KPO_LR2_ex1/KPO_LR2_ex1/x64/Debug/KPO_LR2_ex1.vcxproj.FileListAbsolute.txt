@@ -1,8 +1,0 @@
-C:\Users\Vladimir\OneDrive\Рабочий стол\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPO_LR2_ex1.vcxproj.AssemblyReference.cache
-C:\Users\Vladimir\OneDrive\Рабочий стол\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPO_LR2_ex1.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\Vladimir\OneDrive\Рабочий стол\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPOLR2ex1.Form_ex1.resources
-C:\Users\Vladimir\OneDrive\Рабочий стол\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPO_LR2_ex1.vcxproj.GenerateResource.cache
-C:\Users\Vladimir\OneDrive\Рабочий стол\МАИ\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPO_LR2_ex1.vcxproj.AssemblyReference.cache
-C:\Users\Vladimir\OneDrive\Рабочий стол\МАИ\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPO_LR2_ex1.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\Vladimir\OneDrive\Рабочий стол\МАИ\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPOLR2ex1.Form_ex1.resources
-C:\Users\Vladimir\OneDrive\Рабочий стол\МАИ\КПО\KPO_LR2_ex1\KPO_LR2_ex1\x64\Debug\KPO_LR2_ex1.vcxproj.GenerateResource.cache
